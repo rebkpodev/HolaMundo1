@@ -1,1 +1,2 @@
 segundo
+Aquí Roberto escribe y hace commit y push pero después de Alberto, por lo que hay conflicto
